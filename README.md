@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Karan-g-2003/Karan-g-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at VIT Chennai, passionate about programming and development. Here's a little bit about me:
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Backend Development**
+- 💻 Proficient in **Java**, **C++**, and **Python**
+- 🎯 My next target is to master **Generative AI Development**
+- 🤖 Ask me about **Agentic AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repositories and connect with me!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-g-2003&show_icons=true&theme=radical)
+
+## Skills
+- **Java**
+- **C++**
+- **Python**
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/karan-g2003/)
+
