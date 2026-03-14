@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](www.linkedin.com/in/karanghuwalewala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/karanghuwalewala)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=c8b8ff)](https://github.com/Karan-g-2003)
 [![Profile Views](https://komarev.com/ghpvc/?username=Karan-g-2003&style=for-the-badge&color=7b2fff&label=PROFILE+VIEWS)](https://github.com/Karan-g-2003)
 
