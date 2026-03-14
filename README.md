@@ -30,7 +30,7 @@ class KaranGhuwalewala:
 
 ---
 
-### 🛡️ &nbsp;Flagship Project — Hybrid NIDS
+### 🛡️ &nbsp;Current Project — Hybrid NIDS
 
 <table>
 <tr>
