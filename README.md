@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:7b2fff&height=220&section=header&text=Karan%20Ghuwalewala&fontSize=68&fontColor=c8b8ff&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20VIT%20Chennai%20%7C%20ECM&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn)](https://github.com/Karan-g-2003)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:7b2fff&height=220&section=header&text=Karan%20Ghuwalewala&fontSize=68&fontColor=c8b8ff&fontAlignY=38&desc=Over-caffeinated%20ideas,%20compiled%20into%20reality%20&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn)](https://github.com/Karan-g-2003)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=JavaScript+Full-Stack+Engineer+%F0%9F%9A%80;ML+%26+Deep+Learning+Practitioner+%F0%9F%A7%A0;Cybersecurity+%7C+IDS+Builder+%F0%9F%9B%A1%EF%B8%8F;Cloud+%26+Backend+Architect+%E2%98%81%EF%B8%8F;ECM+Final+Year+%40+VIT+Chennai+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=JavaScript+%7C+Full-Stack+Engineer+%F0%9F%9A%80;ML+%26+Deep+Learning+%F0%9F%A7%A0;Cybersecurity+%7C+Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cloud+%26+Backend+Enthu+%E2%98%81%EF%B8%8F;VIT+Chennai+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,8 +24,8 @@ class KaranGhuwalewala:
     current    = "Hybrid NIDS with Explainable AI (SHAP)"
     learning   = ["Spring Boot Microservices", "Cloud Architecture"]
     languages  = ["JavaScript", "Python", "Java", "C++"]
-    ask_me     = "About IDS, REST APIs, or DP problems 🧩"
-    fun_fact   = "My IDS model hit 99.93% accuracy — beats most AV software 😄"
+    ask_me     = "About IDS, REST APIs, or Agentic AI 🧩"
+    fun_fact   = "Git stores your code as cryptographic objects, not files."
 ```
 
 ---
