@@ -28,6 +28,19 @@ class KaranGhuwalewala:
     fun_fact   = "Git stores your code as cryptographic objects, not files."
 ```
 
+## Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Repository |
+|--------|-------------|------------|------------|
+| **Roastfolio** | AI-powered portfolio analyzer that roasts developer portfolios and provides automated feedback on design, structure, and content. | `Next.js` `AI` `LLM` `Web Scraping` | [View](https://github.com/Karan-g-2003/RoastFolio) |
+| **Movie Vault AI** | AI-powered movie recommendation engine that suggests movies based on user preferences and viewing patterns. | `JavaScript` `Machine Learning` | [View](https://github.com/Karan-g-2003/The-Great-Movie-Vault) |
+| **SMS Spam Detector** | Machine learning model for detecting spam SMS messages using natural language processing techniques. | `Python` `Scikit-learn` `NLP` | [View](https://github.com/Karan-g-2003/SMS-Spam-Detection) |
+| **IoT Climate Dashboard** | Real-time IoT monitoring system for environmental data with live dashboards and device integration. | `Django` `MongoDB` `ESP8266` `Chart.js` | [View](https://github.com/Karan-g-2003/iot_dashboard) |
+
+</div>
+
 ---
 
 ### 🛡️ &nbsp;Current Project — Hybrid NIDS
@@ -36,7 +49,7 @@ class KaranGhuwalewala:
 <tr>
 <td width="60%">
 
-**[🔬 Hybrid Network Intrusion Detection System](https://github.com/Karan-g-2003)**
+**[🔬 Hybrid Network Intrusion Detection System](https://github.com/Karan-g-2003/hybrid-intrusion-detection-xai)**
 
 A capstone deep learning system trained on **CICIDS2017** that detects network anomalies with machine-grade precision. Built to see what humans miss — and explain every decision it makes.
 
@@ -45,9 +58,7 @@ A capstone deep learning system trained on **CICIDS2017** that detects network a
 | Feature Extractor | Dense → Bi-LSTM → Multi-Head Attention |
 | Classifier | XGBoost |
 | Explainability | **SHAP** (key innovation) |
-| Accuracy | **99.93%** |
 
-> 🧠 First in my cohort to integrate **Explainable AI** into an IDS — solving the "black-box" problem of deep learning in cybersecurity.
 
 </td>
 <td width="40%" align="center">
@@ -67,20 +78,6 @@ A capstone deep learning system trained on **CICIDS2017** that detects network a
 </td>
 </tr>
 </table>
-
----
-
-### 🚀 &nbsp;Other Projects
-
-<div align="center">
-
-| 🎬 Movie Vault AI | 🌡️ IoT Climate Dashboard | 📩 SMS Spam Detector |
-|---|---|---|
-| AI-powered movie recommendation engine | Real-time full-stack IoT monitoring system | ML-based SMS classification |
-| `JavaScript` `AI/ML` | `Django` `MongoDB` `ESP8266` `Chart.js` | `Python` `Scikit-learn` `NLP` |
-| [→ View Repo](https://github.com/Karan-g-2003/The-Great-Movie-Vault) | [→ View Repo](https://github.com/Karan-g-2003/iot_dashboard) | [→ View Repo](https://github.com/Karan-g-2003/SMS-Spam-Detection) |
-
-</div>
 
 ---
 
