@@ -35,7 +35,7 @@ class KaranGhuwalewala:
 | Project | Description | Tech Stack | Repository |
 |--------|-------------|------------|------------|
 | **Roastfolio** | AI-powered portfolio analyzer that roasts developer portfolios and provides automated feedback on design, structure, and content. | `Next.js` `AI` `LLM` `Web Scraping` | [View](https://github.com/Karan-g-2003/RoastFolio) |
-| **Movie Vault AI** | AI-powered movie recommendation engine that suggests movies based on user preferences and viewing patterns. | `JavaScript` `Machine Learning` | [View](https://github.com/Karan-g-2003/The-Great-Movie-Vault) |
+| **Movie Vault** | Movie discovery web application for browsing and exploring films through organized metadata and an interactive interface. | `React Vite` `TailwindCSS` `Vite` `JavaScript` | [View](https://github.com/Karan-g-2003/The-Great-Movie-Vault) |
 | **SMS Spam Detector** | Machine learning model for detecting spam SMS messages using natural language processing techniques. | `Python` `Scikit-learn` `NLP` | [View](https://github.com/Karan-g-2003/SMS-Spam-Detection) |
 | **IoT Climate Dashboard** | Real-time IoT monitoring system for environmental data with live dashboards and device integration. | `Django` `MongoDB` `ESP8266` `Chart.js` | [View](https://github.com/Karan-g-2003/iot_dashboard) |
 
