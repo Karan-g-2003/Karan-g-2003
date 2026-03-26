@@ -167,12 +167,6 @@ CLI tool that bootstraps a full AI workspace in 30 seconds — generates `CLAUDE
 
 ### 📊 &nbsp;GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karan-g-2003&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7b2fff&text_color=c8b8ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-g-2003&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c8b8ff"/>
-
-</div>
 
 <div align="center">
 
