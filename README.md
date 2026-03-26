@@ -28,54 +28,92 @@ class KaranGhuwalewala:
     fun_fact   = "Git stores your code as cryptographic objects, not files."
 ```
 
-## Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Repository |
-|--------|-------------|------------|------------|
-| **Roastfolio** | AI-powered portfolio analyzer that roasts developer portfolios and provides automated feedback on design, structure, and content. | `Next.js` `AI` `LLM` `Web Scraping` | [View](https://github.com/Karan-g-2003/RoastFolio) |
-| **Movie Vault** | Movie discovery web application for browsing and exploring films through organized metadata and an interactive interface. | `React Vite` `TailwindCSS` `Vite` `JavaScript` | [View](https://github.com/Karan-g-2003/The-Great-Movie-Vault) |
-| **SMS Spam Detector** | Machine learning model for detecting spam SMS messages using natural language processing techniques. | `Python` `Scikit-learn` `NLP` | [View](https://github.com/Karan-g-2003/SMS-Spam-Detection) |
-| **IoT Climate Dashboard** | Real-time IoT monitoring system for environmental data with live dashboards and device integration. | `Django` `MongoDB` `ESP8266` `Chart.js` | [View](https://github.com/Karan-g-2003/iot_dashboard) |
-
-</div>
-
----
-
-### 🛡️ &nbsp;Current Project — Hybrid NIDS
+## 🚀 &nbsp;Projects
 
 <table>
 <tr>
-<td width="60%">
 
-**[🔬 Hybrid Network Intrusion Detection System](https://github.com/Karan-g-2003/hybrid-intrusion-detection-xai)**
+<td width="50%" valign="top">
 
-A capstone deep learning system trained on **CICIDS2017** that detects network anomalies with machine-grade precision. Built to see what humans miss — and explain every decision it makes.
+### 🔥 &nbsp;[RoastFolio](https://github.com/Karan-g-2003/RoastFolio)
 
-| Component | Technology |
-|---|---|
-| Feature Extractor | Dense → Bi-LSTM → Multi-Head Attention |
-| Classifier | XGBoost |
-| Explainability | **SHAP** (key innovation) |
+AI-powered portfolio analyzer — submit a URL, get a brutally honest LLM critique on design, structure and content.
 
-
-</td>
-<td width="40%" align="center">
-
-```
-📦 Architecture
-├── Dense Layer (feature extraction)
-├── Bi-LSTM (temporal patterns)
-├── Multi-Head Attention (focus)
-├── XGBoost Classifier
-└── SHAP Explainer ← ✨ innovation
-    ├── Feature importance plots
-    ├── SHAP waterfall charts
-    └── Force plots per prediction
-```
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![AI](https://img.shields.io/badge/LLM-Powered-a78bfa?style=flat-square)
+![Scraping](https://img.shields.io/badge/Web_Scraping-ff6b6b?style=flat-square)
+![Clerk](https://img.shields.io/badge/Auth-Clerk-6c47ff?style=flat-square)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🎬 &nbsp;[Movie Vault](https://github.com/Karan-g-2003/The-Great-Movie-Vault)
+
+Cinematic discovery platform — browse, search, and explore films through a fast and responsive modern UI.
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ &nbsp;[Hybrid NIDS + XAI](https://github.com/Karan-g-2003/hybrid-intrusion-detection-xai)
+
+Capstone — network intrusion detection via Bi-LSTM → XGBoost pipeline with dual-layer SHAP explainability. `97.33% accuracy`
+
+![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-XAI-a78bfa?style=flat-square)
+![Dataset](https://img.shields.io/badge/CIC--IDS--2017-orange?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📩 &nbsp;[SMS Spam Detector](https://github.com/Karan-g-2003/SMS-Spam-Detection)
+
+Classical NLP pipeline classifying spam vs ham using TF-IDF feature engineering and ensemble classifiers.
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-7b2fff?style=flat-square)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌡️ &nbsp;[IoT Climate Dashboard](https://github.com/Karan-g-2003/iot_dashboard)
+
+Real-time IoT monitoring — ESP8266 sensors feeding live environmental data into an interactive Chart.js dashboard.
+
+![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-e67e22?style=flat-square)
+![Chart.js](https://img.shields.io/badge/Chart.js-ff6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 &nbsp;[claude-init](https://github.com/Karan-g-2003/claude-init)
+
+CLI tool that bootstraps a full AI workspace in 30 seconds — generates `CLAUDE.md`, skills, agents and MCP config tailored to your stack.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-Tool-555?style=flat-square)
+![npx](https://img.shields.io/badge/npx-ready-cb3837?style=flat-square&logo=npm&logoColor=white)
+
+</td>
+
 </tr>
 </table>
 
