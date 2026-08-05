@@ -21,7 +21,7 @@ class KaranGhuwalewala:
     name       = "Karan Ghuwalewala"
     university = "VIT Chennai — ECM (2026)"
     focus      = ["JavaScript Full-Stack", "ML/DL", "Cybersecurity"]
-    current    = "Hybrid NIDS with Explainable AI (SHAP)"
+    capstone    = "Hybrid NIDS with Explainable AI (SHAP)"
     learning   = ["Spring Boot Microservices", "Cloud Architecture"]
     languages  = ["JavaScript", "Python", "Java", "C++"]
     ask_me     = "About IDS, REST APIs, or Agentic AI 🧩"
